@@ -117,6 +117,17 @@ header .btn.my-btn {
     transform: scale(1.05) !important;
     color: white !important;
 }
+
+#book-btn {
+    display: none;
+}
+
+@media (min-width: 768px ) {
+    #book-btn {
+        display: block;
+    }
+}
+
 .faq {
     border: solid 2px var(--col2-dark);
     border-radius: 1.5rem;;
@@ -822,8 +833,15 @@ USER REGISTRATION PLUGIN
 }
 
 #user-registration-form-947 {
-    margin:0 10rem;
+    margin:0 3rem;
     border:none;
+}
+
+@media (min-width: 768px){
+    #user-registration-form-947 {
+        margin:0 10rem;
+        border:none;
+    }
 }
 
 .ur-button-container {
@@ -840,4 +858,8 @@ USER REGISTRATION PLUGIN
 
 #user-registration {
     background-color: var(--col2) !important;
+}
+
+.user-registration-MyAccount-navigation{
+    text-align: center !important;
 }
