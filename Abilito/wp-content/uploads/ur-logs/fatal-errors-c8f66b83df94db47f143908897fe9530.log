@@ -1,8 +1,0 @@
-2024-09-18T17:17:27+02:00 CRITICAL Trait "Automattic\WooCommerce\Admin\Notes\NoteTraits" not found in C:\MAMP\htdocs\Abilito\wp-content\plugins\pinterest-for-woocommerce\src\Notes\TokenExchangeFailure.php on line 21
-
-2024-09-18T18:06:08+02:00 CRITICAL syntax error, unexpected token "<", expecting end of file in C:\MAMP\htdocs\Abilito\wp-content\themes\abilito_theme\page-957.php on line 20
-
-2024-09-19T11:02:37+02:00 CRITICAL syntax error, unexpected end of file in C:\MAMP\htdocs\Abilito\wp-content\themes\abilito_theme\front-page.php on line 381
-
-2024-09-19T11:02:46+02:00 CRITICAL syntax error, unexpected end of file in C:\MAMP\htdocs\Abilito\wp-content\themes\abilito_theme\front-page.php on line 381
-
